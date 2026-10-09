@@ -4,9 +4,9 @@ FraudLens is a machine learning web application that identifies potentially frau
 
 ## 🚀 Live Demo
 
-**Try FraudLens:** [Open Live App] 
+**Try FraudLens:** [Open Live App] https://thefraudlens.streamlit.app/
 
-## ✨ Featureshttp://thefraudlens.streamlit.app/
+## ✨ Features
 
 * **CSV Upload:** Upload transaction data for fraud detection.
 * **Fraud Prediction:** Classify transactions as potentially fraudulent or legitimate.
